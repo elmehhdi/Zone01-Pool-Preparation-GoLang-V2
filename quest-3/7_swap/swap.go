@@ -15,5 +15,4 @@ func main() {
 	swap(&a, &b)
 	fmt.Println(a)
 	fmt.Println(b)
-
 }
